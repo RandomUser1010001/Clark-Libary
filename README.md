@@ -1,6 +1,6 @@
 __________________________________________________________________________________________________________________________________
 
-Welcome to the official Clark Library!                                                                          {v1.0.0}
+Welcome to the official Clark Library!                                                                          
 --------------------------------------
 
  Devs:
@@ -22,5 +22,7 @@ The code has been encrypted many times, so it is reccommended that you
 just download the file instead of copy-pasting it.
 
 Enjoy and stay tuned for updates!
+
+{v2.0.0}
 
 __________________________________________________________________________________________________________________________________
