@@ -4,9 +4,15 @@ We hope you enjoy!
 
 List of currently committed:
 
---Dev--
-1. Logan
-2. mo0N
+---HTML---
+mo0N
+Logan
 
---Members--
-1. Zack
+---CSS---
+mo0N
+
+---Scripts---
+mo0N
+
+---Mods and Packets---
+mo0N
