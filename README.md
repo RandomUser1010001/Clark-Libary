@@ -1,18 +1,26 @@
-Welcome to Clark Library, a directory of libraries that you may or may not find useful.
+__________________________________________________________________________________________________________________________________
 
-We hope you enjoy!
+Welcome to the official Clark Library!                                                                          {v1.0.0}
+--------------------------------------
 
-List of currently committed:
+ Devs:
 
----HTML---
-mo0N
-Logan
+ •mo0N
+ •Logan
+ 
+ Scripted by: [TNG] mo0N
+ 
+ HTML and CSS: Logan, [TNG] mo0N
+---------------------------------------
 
----CSS---
-mo0N
+Clark Library was scripted by [TNG] mo0N, and Logan.
 
----Scripts---
-mo0N
+Clark Library is a free library of directories that you may find helpful!
 
----Mods and Packets---
-mo0N
+The code has been encrypted many times, so it is reccommended that you 
+
+just download the file instead of copy-pasting it.
+
+Enjoy and stay tuned for updates!
+
+__________________________________________________________________________________________________________________________________
